@@ -1,0 +1,40 @@
+# Android Build & Temporary Files
+.gradle/
+**/build/
+*.apk
+*.aar
+local.properties
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Arduino & Embedded Build Artifacts
+*.hex
+*.elf
+*.bin
+build/
+embedded/**/build/
+
+# IDE & Editor Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/c_cpp_properties.json
+.idea/
+
+# OS & System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log & Temporary Files
+*.log
+*.tmp
+*.bak
+
+
+# change.md
+change.md
