@@ -1,7 +1,0 @@
-{
-  "clang.enable": false,
-  "C_Cpp.intelliSenseEngine": "default",
-  "files.associations": {
-    "*.ino": "cpp"
-  }
-}
