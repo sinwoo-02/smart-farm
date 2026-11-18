@@ -41,3 +41,11 @@ change.md
 
 # vscode
 .vscode
+
+# Environment Variables
+.env
+.env.*
+
+# Environment Variables
+.env
+.env.*
